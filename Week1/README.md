@@ -37,4 +37,4 @@ The following are supplemental to what we go over in class. Much of the same inf
 # Homework
 + Due next Monday
 	+ Play Francis Tseng's [The Founder](https://thefounder.biz/play/) and respond
-	+ Extra-credit: Go see Ian Cheng's Emissary trilogy at PS1 (hurry! closes soon) & write about it
+
