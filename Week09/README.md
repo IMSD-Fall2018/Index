@@ -41,3 +41,6 @@ You'll need to rewrite our mapping program in Processing to use Spout instead of
 + [VPT](https://hcgilje.wordpress.com/vpt/) is free, but a little difficult to use
 + [Facade Signage](https://www.videomappingsoftware.com/download/) is easy to use and has a 21 day free trial
 + [MadMapper](https://madmapper.com/) is the software most people use, but it isn't free
+
+## Projection Mapping Ideas
+[Inspiration](http://projection-mapping.org/inspiration/)
