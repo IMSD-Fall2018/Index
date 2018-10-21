@@ -44,3 +44,4 @@ You'll need to rewrite our mapping program in Processing to use Spout instead of
 
 ## Projection Mapping Ideas
 [Inspiration](http://projection-mapping.org/inspiration/)
+[How to Project on 3D Geometry](https://vvvv.org/documentation/how-to-project-on-3d-geometry)
