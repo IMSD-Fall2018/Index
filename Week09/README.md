@@ -29,7 +29,7 @@ First get a few things ready:
 1. Edit -> Project Settings -> Player
 2. Enable "Run in Background"
 	+ This allows your Unity project to run live in the background, so that you can have a projection mapping program open simultaneously.
-3. Open "funnel.unitypackage" with your Unity project open (from [here](https://github.com/keijiro/Funnel))
+3. Open "KlakSyphon.unitypackage" with your Unity project open (from [here](https://github.com/keijiro/KlakSyphon))
 4. Attach "funnel.cs" to your Main Camera
 
 ## Windows Alternatives
