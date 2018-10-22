@@ -30,7 +30,13 @@ First get a few things ready:
 2. Enable "Run in Background"
 	+ This allows your Unity project to run live in the background, so that you can have a projection mapping program open simultaneously.
 3. Open "KlakSyphon.unitypackage" with your Unity project open (from [here](https://github.com/keijiro/KlakSyphon))
-4. Attach "funnel.cs" to your Main Camera
+4. Attach "SyphonServer.cs" to your Main Camera
+
+## Troubleshooting
++ Having multiple Syphon servers open at the same time crashes the Processing sketch. 
++ Make sure Unity is in play mode
++ Entering/Existing Playmode while the sketch is running will also crash it
+
 
 ## Windows Alternatives
 
